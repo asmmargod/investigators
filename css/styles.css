@@ -76,7 +76,7 @@ h3 {
 }
 
 .scroll {
-  position: fixed;
+  position: relative;
   left: 50%;
   right: 50%;
 }
